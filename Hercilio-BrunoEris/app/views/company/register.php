@@ -69,7 +69,7 @@
     <script src="../../assets/js/bootstrap.min.js"></script>
     <script src="../../assets/js/jquery.form.min.js"></script>
     <script src="../../assets/js/form.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBPlkMMoM8tjnpx5CE_uq0LkWII8Poc0w&callback=initMap"async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcGgQftEFaqP-rx98jcMc0doHQEtACjbQ&callback=initMap"async defer></script>
     <script src="../../assets/js/map_signup.js"></script>
     <script src="../../assets/js/alert.js"></script>
 </body>

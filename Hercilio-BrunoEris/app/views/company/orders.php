@@ -63,6 +63,9 @@ function getStatus($id){
         case 2:
             return "Recebido";
             break;
+        case 3:
+            return "Concluído";
+            break;
         default:
             return "ERRO";
             break;
@@ -78,6 +81,9 @@ function getStatusClass($id){
             break;
         case 2:
             return "success";
+            break;
+        case 3:
+            return "default";
             break;
         default:
             return "ERRO";
